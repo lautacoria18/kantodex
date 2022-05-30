@@ -1,0 +1,12 @@
+.titlek{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.banner{
+    
+    background-color: red;
+    background-size: cover;
+    background-image: url("https://breedersguidehome.files.wordpress.com/2019/04/cropped-bulbasaur_banner-3-1-9.png");
+}

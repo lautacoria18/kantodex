@@ -1,0 +1,33 @@
+.cultura{
+    margin-top: -22px;
+    background-size: cover;
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/018/394/139/large/simone-mandl-004-01.jpg?1559207432');
+}
+
+.culturaP{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content:left;
+    margin: 20px 350px 0 350px;
+    
+    }
+
+.culturaIMG{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+    height: 465px;
+    margin-left: 350px;
+}
+
+.culturaIMG2{
+
+    margin-left: 350px;
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+    height: 465px;
+    width: 830px;
+     
+}

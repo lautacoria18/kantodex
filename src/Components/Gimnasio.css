@@ -1,0 +1,18 @@
+.gim {
+  margin-top: -8px;
+    background-image: url(https://i.kinja-img.com/gawker-media/image/upload/t_original/a17uzhaqsx8rpslee8q1.jpg);
+    background-size: cover;
+}
+
+.grid1{
+
+   margin-left: 20%;
+    display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.cardB{
+  margin-top: 20px;
+}

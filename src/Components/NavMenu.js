@@ -3,6 +3,8 @@ import { NavLink } from 'react-router-dom';
 
 import './NavMenu.css';
 export default function NavMenu() {
+
+  
   return (
       
       
@@ -28,6 +30,7 @@ export default function NavMenu() {
                 Cultura
             </NavLink>
         </li>
+        {/*
         <li style={{"--i":3}}>
             <NavLink className='navLink'
               to="/gimnasios"
@@ -38,6 +41,7 @@ export default function NavMenu() {
                 Pokedex
             </NavLink>
         </li>
+  */}
         <li style={{"--i":2}}>
             <NavLink className='navLink'
               to="/gimnasios"
